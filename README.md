@@ -1,4 +1,4 @@
-* Some [Beecrowd](https://www.beecrowd.com.br) problems solutions:
+Some [Beecrowd](https://www.beecrowd.com.br) problems solutions:
 🎈 [C](https://github.com/nickrois/competitive-programming/search?l=c)
 🎈 [C++](https://github.com/nickrois/competitive-programming/search?l=c%2B%2B)
 
